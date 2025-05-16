@@ -2,9 +2,9 @@
 
 I am a software developer (mostly frontend).
 
-## 🛠️ Tech Stack
+## 💼 Tech Stack
 
-### 🧑‍💻 Languages
+### 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -16,8 +16,8 @@ I am a software developer (mostly frontend).
 ### ⚙️ Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-007396?style=flat&logo=android&logoColor=white)
@@ -36,10 +36,4 @@ I am a software developer (mostly frontend).
 ![Mercurial](https://img.shields.io/badge/Mercurial-999999?style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chai4523&layout=compact)
-
-## 📬 Contact Me
-
-✉️ [chaichungyee@gmail.com](mailto:chaichungyee@gmail.com)
+✉️ Contact me through email: [chaichungyee@gmail.com](mailto:chaichungyee@gmail.com)
