@@ -1,6 +1,6 @@
 # Hi, I'm Chung Yee 👋
 
-I am a software developer (mostly frontend).
+I am a software developer (mostly frontend). Checkout my portfolio [here](https://chai4523.github.io/portfolio/).
 
 ### 💻 Languages
 
